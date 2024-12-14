@@ -1,11 +1,13 @@
-<h3 align="center">An open source advocate</h3>
+<h2 align="center">An open source advocate</h2>
+
+<h3 align="center">About Me</h3>
 
 - 🔭 I’m currently working on [Full Stack Open's](https://fullstackopen.com/) course
 
 - 🌱 I’m currently learning **TypeScrpit**
 
-![image](https://github.com/user-attachments/assets/098c69cf-87fd-4b6a-b443-b50059e86e57)
-		   
+<h3 align="center">My Tech Stack</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
