@@ -1,12 +1,12 @@
-<h2 align="center">An open source advocate</h2>
+## An open source advocate
 
-<h3 align="center">About Me</h3>
+### About Me
 
 - 🔭 I’m currently working on [Full Stack Open's](https://fullstackopen.com/) course
 
 - 🌱 I’m currently learning **TypeScrpit**
 
-<h3 align="center">My Tech Stack</h3>
+### My Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
