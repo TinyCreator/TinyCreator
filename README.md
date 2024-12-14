@@ -1,12 +1,12 @@
-## An open source advocate
+# An open source advocate
 
-### About Me
+## About Me
 
 - 🔭 I’m currently working on [Full Stack Open's](https://fullstackopen.com/) course
 
 - 🌱 I’m currently learning **TypeScrpit**
 
-### My Tech Stack
+## My Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
