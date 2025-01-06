@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Full Stack Open's](https://fullstackopen.com/) course
 
-- 🌱 I’m currently learning **TypeScrpit**
+- 🌱 I’m currently learning **React Native**
 
 ## My Tech Stack
 
